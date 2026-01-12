@@ -22,13 +22,6 @@ The dashboard is built to answer practical business questions such as:
 
 ## Dashboard
 
-### Dashboard Demo
-
-Click the image below to watch a short demo of the dashboard and its interactivity.
-
-[![Dashboard Demo](Dashboard-Screenshots/1-customers.png)](recording-demo/dashboard-demo.mov)
-
----
 
 ### Customers Overview
 ![Customers Overview](Dashboard-Screenshots/1-customers.png)
