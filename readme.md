@@ -1,4 +1,4 @@
-# 📊 E-Commerce Analytics Dashboard (Power BI)
+# E-Commerce Analytics Dashboard (Power BI)
 
 ## Overview
 
